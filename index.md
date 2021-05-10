@@ -1,6 +1,1 @@
----
-layout: default
----
-
-{% include 01-name.md %}
-
+[github profile](https://github.com/sfoleyham)
